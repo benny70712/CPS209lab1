@@ -1,6 +1,2 @@
-print  ('Hello ')
-
-
-
-
-#lalalalal
+print('Helllo')
+print(1234)
